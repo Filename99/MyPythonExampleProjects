@@ -17,3 +17,7 @@ This Hangman game uses the curses module to draw the hangman and the word on the
 ## Restaurant Order System
 
 A program that simulates a restaurant order system, takes a customer's order, processes it, displays a receipt, and tracks the revenue from the orders.
+
+## Address Book
+
+An address book program that can store people's contact information, search through the database, and export the data as a CSV file.
