@@ -21,3 +21,7 @@ A program that simulates a restaurant order system, takes a customer's order, pr
 ## Address Book
 
 An address book program that can store people's contact information, search through the database, and export the data as a CSV file.
+
+## Grocery Store Management Game
+
+A game that simulates managing a grocery store, where players can buy and sell groceries, track their inventory, and compete with other players in the leaderboard.
