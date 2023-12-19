@@ -4,7 +4,7 @@ Self-explanatory. Feel free to copy.
 
 ## Simple Calculator
 
-Just a calculator. Supports addition, subtraction, multiplication and division. Has a range of two numbers.
+Just a calculator. Supports addition, subtraction, multiplication and division. Has a range of two numbers. Uses user input.
 
 ## Day of the Week based on Date and Year
 
